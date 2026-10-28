@@ -1,8 +1,14 @@
 ---
-title: Your Name
+title: Neider Devia Merchan
 layout: base
 date: 2024-12-02
 ---
+
+Neider is a Fulbright Scholar doing a PhD program in Latin American Studies at the University of New Mexico (UNM). Neider is a teaching assistant in the Department of Spanish and Portuguese at UNM.  
+
+Furthermore, Neider is an indigenous belonging to the Pijao pueblo from Colombia. He got his bachelor's degree in international business at the Universidad del Tolima, and his master's degree in Amazon Regional Development at the Universidade Federal de Roraima in Brazil thanks to a scholarship from the Organization of American States. 
+
+His goals in pursuing graduate studies center upon multidisciplinary research regarding the concept of ethno-development, and how state-led policies towards racial and ethnic minorities can provide better living conditions for indigenous peoples guaranteeing their physical and cultural survival. 
 
 {% include layout/profile-intro.html %}
 
